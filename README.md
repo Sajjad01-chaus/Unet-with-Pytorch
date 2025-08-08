@@ -1,9 +1,5 @@
 # Polygon Coloring using Conditional U-Net
-
-This project is submitted as part of the **Ayna ML Intern Take-Home Assignment**.
-
-## 🔍 Problem Statement
-Given a polygon shape and a target color, the model is trained to generate a colored version of the shape.
+this is the implementation of conditional Unet for polygon coloring. Implemented with  pytorch from scratch
 
 ## 📁 Folder Structure
 ```
